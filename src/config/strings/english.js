@@ -1,0 +1,12 @@
+exports.language_page_title = 'Select Language';
+exports.home = 'Home';
+exports.profile = 'Profile';
+exports.go_to_profile = 'Go to Profile';
+exports.go_to_home = 'Go to Home';
+exports.current_theme_on_profile = 'Current Theme on Profile';
+exports.switch_theme = 'Switch Theme';
+exports.change_language = 'Change Language';
+exports.share = 'Share';
+exports.something = 'Something';
+exports.webview = 'Webview';
+exports.more = 'More';

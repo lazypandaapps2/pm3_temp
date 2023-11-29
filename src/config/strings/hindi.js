@@ -1,0 +1,12 @@
+exports.language_page_title = 'भाषा का चयन करें';
+exports.home = 'होम';
+exports.profile = 'प्रोफाइल';
+exports.go_to_profile = 'प्रोफाइल पर जाएं';
+exports.go_to_home = 'होम पर जाएं';
+exports.current_theme_on_profile = 'प्रोफाइल पर वर्तमान थीम';
+exports.switch_theme = 'थीम बदलें';
+exports.change_language = 'भाषा बदलें';
+exports.share = 'शेयर करें';
+exports.something = 'कुछ';
+exports.webview = 'वेबव्यू';
+exports.more = 'अधिक';
